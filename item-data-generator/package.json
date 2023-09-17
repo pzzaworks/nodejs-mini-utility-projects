@@ -1,0 +1,8 @@
+{
+  "name": "item-data-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Berke (pzzaworks)",
+  "license": "MIT",
+  "dependencies": {}
+}
